@@ -1,4 +1,6 @@
-# Supporting-Information for Graham-et-al.(in-review) 
+# Supporting-Information for Graham-et-al.(2020) 
+
+Graham, H.A., Puttock, A., Macfarlane, W.W., Wheaton, J.M., Gilbert, J.T., Campbell-Palmer, R., Elliott, M., Gaywood, M.J., Anderson, K., Brazier, R.E., 2020. Modelling Eurasian beaver foraging habitat and dam suitability, for predicting the location and number of dams throughout catchments in Great Britain. Eur J Wildl Res 66, 42. https://doi.org/10.1007/s10344-020-01379-w
 
 ##### Modelling Eurasian beaver foraging habitat and dam suitability, for predicting the location and number of dams throughout catchments in Great Britain.
 
